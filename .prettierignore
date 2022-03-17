@@ -1,0 +1,13 @@
+node_modules/
+dist
+build
+my-app*
+packages/react-scripts/template
+packages/react-scripts/fixtures
+fixtures/
+src/reportWebVitals.js
+src/setupTests.js
+src/App.test.js
+src/**/*.css
+src/**/*.scss
+yarn.lock
